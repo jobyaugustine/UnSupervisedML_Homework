@@ -28,5 +28,5 @@
 
 ### Cluster Analysis with k-Means
 
-* Created an elbow plot to identify the best number of clusters. k is appears to be 4 from the elbow plot.
+* Created an elbow plot to identify the best number of clusters. k is appears to be 5 from the elbow plot.
 
